@@ -24,8 +24,8 @@ In multi-class classification, the neural network has the same number of output 
 ```python
 
 #Program to implement the multi class classifier.
-#Developed by: JAYASHREE RAO V
-#RegisterNumber: 212220230023
+#Developed by: Lishali R
+#RegisterNumber: 212220230028
 
 from numpy import where
 from collections import Counter
