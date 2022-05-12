@@ -1,5 +1,5 @@
-## EX NO:3
-## DATE:
+# EX NO:3
+# DATE:
 # MULTI-CLASS-CLASSIFICATION
 ## AIM:
 
