@@ -1,6 +1,6 @@
-# EX NO:3
-# DATE:
-# MULTI-CLASS-CLASSIFICATION
+### EX NO: 03
+### DATE:
+# <p align="center">MULTICLASS CLASSIFICATION <p/>
 ## AIM:
 
 To write a python program to implement the multi class classification algorithm .
